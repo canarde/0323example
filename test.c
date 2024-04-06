@@ -1,4 +1,4 @@
-#include "func_test.h"
+#include <stdio.h>
 
 int main(){
     int result, num1, num2;

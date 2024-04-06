@@ -18,3 +18,7 @@ void HowToUseThisProg(void)
     printf("두 개의 정수를 입력하시면 덧셈결과가 출력됩니다.\n");
     printf("자! 그럼 두 개의 정수를 입력하세요. \n");
 }
+void star_line(void)
+{
+    printf("*******************************************\n");
+}
